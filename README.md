@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Rainjalin
 - 👀 I’m interested in design & Architecture
-- 🌱 I’m currently learning web develoder
-- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me jalinmathor@gmail.com
